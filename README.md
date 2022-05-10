@@ -21,7 +21,7 @@ See [my website](https://jamesbradley.netlify.app/) for more information!
 
 
 <h1 align="center">Projects</h1>
-<table bordercolor="#66b2b2">
+<table align="center" bordercolor="#66b2b2">
   
   <tr>
     <td align="center" width="50%" valign="top">
