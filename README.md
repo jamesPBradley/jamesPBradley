@@ -24,7 +24,7 @@ See [my website](https://jamesbradley.netlify.app/) for more information!
 <table bordercolor="#66b2b2">
   
   <tr>
-    <td width="50%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="https://jamesbradley.netlify.app">
