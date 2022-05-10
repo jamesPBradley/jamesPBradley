@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James, welcome to my GitHub.</h1>
+<h1 align="center">Hi, welcome to my GitHub.</h1>
 
 <p align="center">
   <a href="https://jamesbradley.netlify.app" target="_blank">
