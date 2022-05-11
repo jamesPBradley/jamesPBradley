@@ -10,7 +10,7 @@
   <a href="https://twitter.com/tolartoes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="/images/jamesBradleySoftwareEngineer.pdf" download="JamesBradley-Resume">
+  <a href="https://raw.githubusercontent.com/jamesPBradley/jamesPBradley/56a10406a40c770d93741bbd6d1428e1f3d82145/images/jamesBradleySoftwareEngineer.pdf" download="JamesBradley-Resume">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
