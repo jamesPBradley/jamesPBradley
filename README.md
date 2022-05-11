@@ -10,7 +10,7 @@
   <a href="https://twitter.com/tolartoes" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
-  <a href="/images/jamesBradleySoftwareEngineer.pdf" download="JamesBradley-Resume" target="_blank">
+  <a href="/images/jamesBradleySoftwareEngineer.pdf" download="JamesBradley-Resume">
     <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
